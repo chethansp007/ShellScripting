@@ -1,0 +1,5 @@
+https://www.geeksforgeeks.org/tr-command-unixlinux-examples/
+
+sort
+tr
+cut
